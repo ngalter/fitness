@@ -1,5 +1,4 @@
-
-![fitness stats]("https://github.com/ngalter/fitness/blob/master/fitness.jpg")
+<img width="1000" alt="fitness stats" src="https://github.com/ngalter/fitness/blob/master/fitness.jpg">
 
 # Workout Tracker
 
