@@ -6,7 +6,7 @@ This app allows the user to create a workout, saving a collection of exercises t
 
 # Specifications
 
-The Fitness Tracker application uses Express, Node.js, MongoDB and Mongoose.  It is deployed on Heroku.  The front-end code is written in HTML, CSS and JavaScript and was given as part of the assignment.
+The Fitness Tracker application uses Express, Node.js, MongoDB and Mongoose.  It is deployed on Heroku at https://carry-that-weight.herokuapp.com.  The front-end code is written in HTML, CSS and JavaScript and was given as part of the assignment.
 
 As a developer my job was to develop the Mongo database model, Mongoose schema and Express routes.
 
