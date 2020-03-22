@@ -1,3 +1,6 @@
+
+![fitness stats]("./fitness.png")
+
 # Workout Tracker
 
 This app allows the user to create a workout, saving a collection of exercises together as the workout.  The user can add more exercises to the current workout plan or start a new workout plan.  The Workout Tracker will combine the exercise totals on a "stats" page. 
