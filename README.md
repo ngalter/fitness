@@ -1,5 +1,5 @@
 
-![fitness stats]("./fitness.jpg")
+![fitness stats]("https://github.com/ngalter/fitness/blob/master/fitness.jpg")
 
 # Workout Tracker
 
