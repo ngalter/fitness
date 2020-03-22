@@ -1,12 +1,12 @@
-# Workout Tracker
+# Fitness Tracker
 
-This app allows the user to create a workout, saving a collection of exercises together as the workout.  The user can add more exercises to the current workout plan or start a new workout plan.  The Workout Tracker will combine the exercise totals on a "stats" page. 
+This app allows the user to create a workout, saving a collection of exercises together as the workout.  The user can add more exercises to the current workout plan or start a new workout plan.  The Fitness Tracker will combine the exercise totals on a "stats" page. 
 
 <img width="1000" alt="fitness stats" src="https://github.com/ngalter/fitness/blob/master/fitness.jpg">
 
 # Specifications
 
-The Workout Tracker application uses Express, Node.js, MongoDB and Mongoose.  It is deployed on Heroku.  The front-end code is written in HTML, CSS and JavaScript and was given as part of the assignment.
+The Fitness Tracker application uses Express, Node.js, MongoDB and Mongoose.  It is deployed on Heroku.  The front-end code is written in HTML, CSS and JavaScript and was given as part of the assignment.
 
 As a developer my job was to develop the Mongo database model, Mongoose schema and Express routes.
 
