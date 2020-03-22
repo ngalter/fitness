@@ -1,5 +1,5 @@
 
-![fitness stats]("./fitness.png")
+![fitness stats]("./fitness.jpg")
 
 # Workout Tracker
 
